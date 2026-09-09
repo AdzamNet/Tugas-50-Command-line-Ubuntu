@@ -1,7 +1,7 @@
 # Tugas-50-Command-line-Ubuntu
 50 command line di ubuntu
 
-
+```
 1.  ls                   - lihat isi folder
 2.  pwd                  - tampilkan direktori sekarang
 3.  cd ..                - naik satu folder
@@ -52,3 +52,4 @@
 48. sudo service start   - jalankan layanan
 49. sudo service stop    - hentikan layanan
 50. sudo service status  - cek status layanan
+```
